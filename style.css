@@ -40,9 +40,7 @@ input {
 
 button {
   color: #ffff;
-  background: #076585;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #0a617e;   
   border: 0;
   padding: 15px;
   border-radius: 8px;
@@ -50,7 +48,7 @@ button {
   font-size: 20px;
 }
 button:hover{
-  background-color:#C23373;
+  background: #04394a;
   cursor: pointer;
 }
 
